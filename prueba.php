@@ -2,7 +2,7 @@
 
 class prueba
 {
-    public function prueba(){
+    public function __construct(){
 
 }
 }
